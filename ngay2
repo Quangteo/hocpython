@@ -1,0 +1,18 @@
+'a \n b' == 'a \n b'
+print('a \n b') ==
+a
+b
+
+
+
+print(r'I li\nked') # sau chu r thi khong xu ly ham
+
+print("""\
+I
+Liked
+""") # them \ bo dong trong dau tien
+
+s[] # indexing lay ky tu trong chuoi
+s[0:4] == s[:4] # slicing lay chuoi - khong lay ky tu cuoi
+s = "python"
+s[:6] == pytho
