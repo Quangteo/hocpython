@@ -1,9 +1,10 @@
+*** NGAY 2 ***
+
+
 'a \n b' == 'a \n b'
 print('a \n b') ==
 a
 b
-
-
 
 print(r'I li\nked') # sau chu r thi khong xu ly ham
 
@@ -16,3 +17,38 @@ s[] # indexing lay ky tu trong chuoi
 s[0:4] == s[:4] # slicing lay chuoi - khong lay ky tu cuoi
 s = "python"
 s[:6] == pytho
+
+
+*** NGAY 3 ***
+
+
+if ' ':
+if 0:
+if False:
+if None:
+Khong ra gi
+
+>>> if 'Y' in s:
+...     print('Y')
+... elif 'Dao' in s:
+...     print('Dao')
+... elif 'Thanh' in s:
+...     print('Thanh')
+... else:
+...     print('Khong co')
+... print('Het')
+
+l = 6000000
+if l - 3000000 > 5000000:
+ print('Di nhau')
+if (l - 3000000) - 2000000 > 5000000:
+ print('Di mat xa')
+if (l - )
+
+
+l = 6000000
+if l - 3000000 > 5000000:
+ print('Di nhau')
+if (l - 3000000) - 2000000 > 5000000:
+ print('Di mat xa')
+if (l - )
